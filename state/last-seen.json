@@ -1,96 +1,96 @@
 {
   "weasels": {
+    "fxliang": {
+      "sha": "fa0732419ac2b27125c339f8da770011752c4038",
+      "url": "https://github.com/fxliang/weasel.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "pb"
+    },
     "rime": {
-      "sha": "f9203cae5e2b0796d94575b975f62a6be9614b00",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "master",
-      "url": "https://github.com/rime/weasel.git"
+      "sha": "8f2561f1861ac4fab53e813f3dab9cdb8604a5ea",
+      "url": "https://github.com/rime/weasel.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "master"
     },
     "qing": {
       "sha": "485b7a18e71bb73aef5d16f9b0d328af689d6527",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "master",
-      "url": "https://github.com/a810439322/weasel.git"
-    },
-    "fxliang": {
-      "sha": "b87f266e91993a94e8c32f04d8a97bf605f69035",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "pb",
-      "url": "https://github.com/fxliang/weasel.git"
+      "url": "https://github.com/a810439322/weasel.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "master"
     }
   },
   "datas": {
-    "kagiroi": {
-      "sha": "1951bab3742495f763b79809af253884c33358e9",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "main",
-      "url": "https://github.com/rimeinn/rime-kagiroi.git"
-    },
-    "mungyeong": {
-      "sha": "942c36bec83da5f460ac2cbc470a4ed9993cdf8f",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "main",
-      "url": "https://github.com/rimeinn/rime-mungyeong.git"
-    },
-    "moran-simp": {
-      "sha": "807b0390550de758be68fc63a62150a8cbcdcbc1",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "simp",
-      "url": "https://github.com/rimeinn/rime-moran.git"
-    },
-    "crane": {
-      "sha": "44d00fa68d9f4754b6381797bdbd5fcd405bfaf7",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "main",
-      "url": "https://github.com/kchen0x/rime-crane.git"
-    },
-    "jdhe": {
-      "sha": "37787aee904f74059f470905633c99031d258475",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "main",
-      "url": "https://github.com/rimeinn/rime-JDhe.git"
-    },
-    "092wb": {
-      "sha": "0892bd40abf32d427bd3bf91763b65d29d5ec624",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "main",
-      "url": "https://github.com/092wb/092wb.git"
+    "lutai": {
+      "sha": "e4d5119871e7ea677014bf749fe4174bd300b30b",
+      "url": "https://github.com/Flauver/lutai.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "dev"
     },
     "tiger": {
       "sha": "2c9f9dfb4a882e1a99b08a359d859e7d2b110538",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "main",
-      "url": "https://github.com/a810439322/rime-tiger.git"
-    },
-    "lutai": {
-      "sha": "e4d5119871e7ea677014bf749fe4174bd300b30b",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "dev",
-      "url": "https://github.com/Flauver/lutai.git"
-    },
-    "zrlong": {
-      "sha": "97543f6fe0a2b2f308933c40f166a883b3f348e6",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "main",
-      "url": "https://github.com/rimeinn/rime-zrlong.git"
-    },
-    "snow-pinyin": {
-      "sha": "3ab85f0b138e9a099d8382e7f65d7daa34aaa99b",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "main",
-      "url": "https://github.com/rimeinn/rime-snow-pinyin.git"
-    },
-    "openfly": {
-      "sha": "f0982a96291c1d221753cf5a049778fd88ce45e2",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "main",
-      "url": "https://github.com/amorphobia/openfly.git"
+      "url": "https://github.com/a810439322/rime-tiger.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "main"
     },
     "moran-trad": {
       "sha": "39a37404470914cb84ae5456877c40c7c60aedd2",
-      "checked_at": "2026-08-13T10:13:14Z",
-      "ref": "trad",
-      "url": "https://github.com/rimeinn/rime-moran.git"
+      "url": "https://github.com/rimeinn/rime-moran.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "trad"
+    },
+    "openfly": {
+      "sha": "f0982a96291c1d221753cf5a049778fd88ce45e2",
+      "url": "https://github.com/amorphobia/openfly.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "main"
+    },
+    "092wb": {
+      "sha": "0892bd40abf32d427bd3bf91763b65d29d5ec624",
+      "url": "https://github.com/092wb/092wb.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "main"
+    },
+    "kagiroi": {
+      "sha": "1951bab3742495f763b79809af253884c33358e9",
+      "url": "https://github.com/rimeinn/rime-kagiroi.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "main"
+    },
+    "moran-simp": {
+      "sha": "807b0390550de758be68fc63a62150a8cbcdcbc1",
+      "url": "https://github.com/rimeinn/rime-moran.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "simp"
+    },
+    "crane": {
+      "sha": "44d00fa68d9f4754b6381797bdbd5fcd405bfaf7",
+      "url": "https://github.com/kchen0x/rime-crane.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "main"
+    },
+    "mungyeong": {
+      "sha": "942c36bec83da5f460ac2cbc470a4ed9993cdf8f",
+      "url": "https://github.com/rimeinn/rime-mungyeong.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "main"
+    },
+    "zrlong": {
+      "sha": "97543f6fe0a2b2f308933c40f166a883b3f348e6",
+      "url": "https://github.com/rimeinn/rime-zrlong.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "main"
+    },
+    "jdhe": {
+      "sha": "37787aee904f74059f470905633c99031d258475",
+      "url": "https://github.com/rimeinn/rime-JDhe.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "main"
+    },
+    "snow-pinyin": {
+      "sha": "3ab85f0b138e9a099d8382e7f65d7daa34aaa99b",
+      "url": "https://github.com/rimeinn/rime-snow-pinyin.git",
+      "checked_at": "2026-08-14T10:09:06Z",
+      "ref": "main"
     }
   }
 }
