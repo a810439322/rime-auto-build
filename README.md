@@ -1,3 +1,5 @@
+
+
 # rime-auto-build
 
 自动构建 Weasel（小狼毫）Windows x64 安装包。
@@ -71,6 +73,7 @@ Release tag 使用 `build-YYYYMMDD-HHMM-类型` 格式，`HHMM` 是北京时间�
 - `公开 GitHub 仓库`：只支持公开 GitHub HTTPS 仓库，例如 `https://github.com/user/rime-data`。方案短名和显示名会自动从仓库名推导。
 - `分支、标签或 commit`：可选；分支、tag 或完整 40 位 commit SHA，不填就用仓库默认分支。
 - `小狼毫版本`：一次只能选择一个小狼毫版本：官方小狼毫（`rime`）、晴版小狼毫（`qing`）或 fxliang 小狼毫（`fxliang`）。
+- `确认`：必须勾选，确认这是公开 Rime 方案仓库，并知道安装包会作为临时 GitHub Actions Artifact 上传。
 
 机器人会先校验仓库是否公开、ref 是否存在、根目录是否像 Rime data 仓库，然后只打包这一组 data + weasel。成功后在 Issue 里直接评论下载链接，安装包在本次 workflow 的 Artifacts 里，artifact 名为 `package-request-{issue_number}`。下载需要登录 GitHub；Artifacts 有 GitHub 保留期限，不会进入正式 Releases。
 
